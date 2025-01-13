@@ -200,7 +200,7 @@ Ele falará sobre o planejamento para o desenvolvimento das fantasias e quais as
   },
   {
     label: `
-"Atualmente eu existo a função de gestor de compras e chefe de equipe, chefe de ateliê. Então assim, eu tenho organizações de planejamentos distintos, porque o chefe de ateliê tem um planejamento em cima do trabalho da fantasia com relação a prazo, com relação ao tempo de execução de cada ateliê. Etapa e ao material que está sendo utilizado e enquanto comprador, gestor de compras, eu tenho que me preocupar diretamente e lidar diretamente com direção de carnaval, carnavalesco, chefe de ateliê."`,
+"Atualmente eu exerço a função de gestor de compras e chefe de equipe, chefe de ateliê. Então assim, eu tenho organizações de planejamentos distintos, porque o chefe de ateliê tem um planejamento em cima do trabalho da fantasia com relação a prazo, com relação ao tempo de execução de cada ateliê. Etapa e ao material que está sendo utilizado e enquanto comprador, gestor de compras, eu tenho que me preocupar diretamente e lidar diretamente com direção de carnaval, carnavalesco, chefe de ateliê."`,
     audioURL: 'AUDIOS/audioMarcos2.mp3'
   },
   {
