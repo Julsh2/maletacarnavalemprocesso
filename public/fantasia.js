@@ -322,7 +322,7 @@ function telaTextoFantasia() {
    }
  
    if (currentTextIndex == 33) {
-      image(imgFundoLDTEnredo, 0, 0)
+      image(imgFundoLDTAlegoria, 0, 0)
       image(imgPersonagemMini, 32, 360);
       push();
       fill(243)

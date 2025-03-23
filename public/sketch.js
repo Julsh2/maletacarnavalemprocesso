@@ -114,7 +114,7 @@ Agora vamos ouvir um pouco sobre o processo de construção do enredo, com um re
   },
   {
     label: `
-Para mergulharmos no processo de construção de um enredo, assim como um enredista, vamor explorar o universo temático a partir das cartas. 
+Para mergulharmos no processo de construção de um enredo, assim como um enredista, vamos explorar o universo temático a partir das cartas. 
 `,
     audioURL: 'NARRACAO/index10.mp3'
   },
